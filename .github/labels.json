@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Green",
+    "description": "This issue is green.",
+    "color": "007A00"
+  },
+  {
+    "name": "Delicious Cake",
+    "description": "This issue is delicious cake.",
+    "color": "325CFB"
+  },
+  {
+    "name": "Stinky Fish",
+    "description": "This issue is stinky fish.",
+    "color": "C90F0B"
+  }
+]
